@@ -1,4 +1,4 @@
-<img src="https://hanarotg.github.io/others/soongfi/soongfi.png" style="width: 64px; height:64px; border: 1px solid #ffffff; border-radius: 16px" />
+<img src="https://hanarotg.github.io/others/soongfi/soongfi.png" style="width: 64px; height:64px;" />
 
 # ✨ Soongfi : 숭실대학교 인터넷 문제 해결 앱
 
