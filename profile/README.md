@@ -9,11 +9,11 @@
 
 ## Repositories
 
-| 레포지토리                                                    | 플랫폼    | 다운로드                                           | 비고           |
-| ------------------------------------------------------------- | --------- | -------------------------------------------------- | -------------- |
-| [Soongfi-IOS](https://github.com/soongfi/Soongfi-IOS)         | `IOS`     | [Link](https://testflight.apple.com/join/q2qA4inP) | 업데이트 1순위 |
-| [Soongfi-Android](https://github.com/soongfi/Soongfi-Android) | `Android` | -                                                  | 업데이트 2순위 |
-| [Soongfi-WEB](https://github.com/soongfi/Soongfi-WEB)         | `WEB`     | [Link](https://soongfi.github.io/Soongfi-WEB/)     | 업데이트 중단  |
+| 레포지토리                                                    | 플랫폼    | 다운로드                                                                              | 비고           |
+| ------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------- | -------------- |
+| [Soongfi-IOS](https://github.com/soongfi/Soongfi-IOS)         | `IOS`     | [OpenBeta](https://testflight.apple.com/join/q2qA4inP)                                | 업데이트 1순위 |
+| [Soongfi-Android](https://github.com/soongfi/Soongfi-Android) | `Android` | [OpenBeta](https://play.google.com/store/apps/details?id=com.soongfi.soongfi_android) | 업데이트 2순위 |
+| [Soongfi-WEB](https://github.com/soongfi/Soongfi-WEB)         | `WEB`     | [Link](https://soongfi.github.io/Soongfi-WEB/)                                        | 업데이트 중단  |
 
 ## Contrubution
 
