@@ -21,7 +21,11 @@
 
 ## Contributers
 
-- Taegyeong Lee : [@hanarotg](https://github.com/hanarotg) `IOS` `Android` `WEB`
+- TaeGyeong Lee : [@hanarotg](https://github.com/hanarotg) `IOS` `Android` `WEB`
+
+## Special Thanks
+
+- SeongBin Ahn : [@gp919](https://github.com/gp919) `Android`
 
 ## License
 
