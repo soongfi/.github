@@ -1,19 +1,25 @@
-<img src="https://hanarotg.github.io/others/soongfi/soongfi.png" style="width: 64px; height:64px;" />
 
-# ✨ Soongfi : 숭실대학교 인터넷 문제 해결 앱
+
+# 숭파이 | 숭실대학교 인터넷 문제 해결 앱
 
 '숭파이'는 숭실대학교 교내 WIFI 인터넷 문제를 해결하기 위해
 숭실대학교 재학생이 개발한 어플리케이션입니다.
 
 ![noname](https://user-images.githubusercontent.com/34812887/217592422-e9dd6c6a-5654-4b03-be64-71a065dd78a6.png)
 
+## 다운로드
+
+<a href="https://play.google.com/store/apps/details?id=com.soongfi.soongfi_android"><img src="https://user-images.githubusercontent.com/34812887/222054915-a730bb25-32a3-4a19-9767-295f12f2bdc9.png" style="width: 200px"/></a>
+
+<a href="https://testflight.apple.com/join/q2qA4inP">
+<img src="https://user-images.githubusercontent.com/34812887/222056071-cf4cd45b-3fd3-4c00-97a3-e958c9af6fa9.svg" style="width:200px"/></a>
+
 ## Repositories
 
-| 레포지토리                                                    | 플랫폼    | 다운로드                                                                              | 비고           |
-| ------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------- | -------------- |
-| [Soongfi-IOS](https://github.com/soongfi/Soongfi-IOS)         | `IOS`     | [OpenBeta](https://testflight.apple.com/join/q2qA4inP)                                | 업데이트 1순위 |
-| [Soongfi-Android](https://github.com/soongfi/Soongfi-Android) | `Android` | [OpenBeta](https://play.google.com/store/apps/details?id=com.soongfi.soongfi_android) | 업데이트 2순위 |
-| [Soongfi-WEB](https://github.com/soongfi/Soongfi-WEB)         | `WEB`     | [Link](https://soongfi.github.io/Soongfi-WEB/)                                        | 업데이트 중단  |
+| 레포지토리                                                    | 플랫폼  
+| ------------------------------------------------------------- | --------- |
+| [Soongfi-IOS](https://github.com/soongfi/Soongfi-IOS)         | `IOS` |
+| [Soongfi-Android](https://github.com/soongfi/Soongfi-Android) | `Android` |
 
 ## Contrubution
 
